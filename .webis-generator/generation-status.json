@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-03T13:17:14.784Z",
+  "timestamp": "2025-04-03T13:17:39.130Z",
   "status": {
     "totalComponents": 7,
-    "completedComponents": 5,
+    "completedComponents": 6,
     "failedComponents": 0,
-    "progress": 71
+    "progress": 86
   },
   "components": [
     {
@@ -40,7 +40,7 @@
     {
       "name": "LocationMap",
       "type": "map",
-      "status": "pending",
+      "status": "completed",
       "description": "Map showing the barbershop's location"
     },
     {
