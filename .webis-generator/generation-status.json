@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-03T13:17:39.130Z",
+  "projectDir": "idan-6056",
   "status": {
     "totalComponents": 7,
-    "completedComponents": 6,
+    "completedComponents": 7,
     "failedComponents": 0,
-    "progress": 86
+    "progress": 100
   },
   "components": [
     {
@@ -46,9 +46,14 @@
     {
       "name": "FooterSection",
       "type": "footer",
-      "status": "pending",
+      "status": "completed",
       "description": "Website footer with essential links and information"
     }
   ],
-  "repoName": "webis-site-idan-1743685987091"
+  "tokenUsage": {
+    "totalInputTokens": 8454,
+    "totalOutputTokens": 14342,
+    "totalTokens": 22796,
+    "requests": 7
+  }
 }
