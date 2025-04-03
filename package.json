@@ -1,0 +1,12 @@
+{
+  "name": "idan-6056",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "next": "^13.4.0",
+    "framer-motion": "^10.12.16",
+    "tailwindcss": "^3.3.2"
+  },
+  "devDependencies": {}
+}
